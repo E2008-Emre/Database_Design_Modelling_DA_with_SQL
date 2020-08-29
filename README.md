@@ -1,1 +1,1 @@
-# Database_Design_Modelling_DA_with_SQL
+# This repo contains Database Design and Modelling, and Data Analysis with SQL projects
